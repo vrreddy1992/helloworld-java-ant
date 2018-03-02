@@ -28,7 +28,7 @@
 	<jar destfile="lib/app.jar" basedir="bin"/>
 </target>
 
-</project>
+</proj1ect>
 
 
 
